@@ -26,4 +26,4 @@ Currently, I am working as a *Data Migration Specialist*, focusing on web scrapi
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/astika-istiningrum)
 - 📧 [astikaistiningrum23@gmail.com](mailto:astikaistiningrum23@gmail.com)
-- 🌐 [Portfolio Website](https://drive.google.com/drive/folders/1AW3FjXInaAIXVl07E6aiOnoMAfB260uu)
+- 🌐 [Portfolio](https://drive.google.com/file/d/10SmHu-d4MA189P8RyKVXKlQpN06BLAUb/view?usp=drive_link)
