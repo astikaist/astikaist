@@ -9,6 +9,8 @@ Currently, I am working as a *Data Migration Specialist*, focusing on web scrapi
 - ☁️ *Cloud Automation:* Deploying serverless functions and schedulers on Google Cloud Platform (GCP) to integrate data into SAP, BigQuery, and internal systems.
 - 💻 *Web & Mobile Development:* Building responsive web dashboards and mobile applications (iOS/Android) with React.js and React Native, implementing Clean Architecture and security features (Biometrics, ProGuard).
 - 🛠 *Backend Integration:* Developing web platforms and admin panels using Laravel (PHP), Go, and managing databases (PostgreSQL, MongoDB).
+- 🧠 *Research Interest:* Computer Vision & Autonomous Vehicle Systems (specialized in [Lane Detection](https://ieeexplore.ieee.org/document/9972068)).
+- 🌱 *Current Focus:* Deepening my knowledge in Low Code No Code tools [Weaver](https://weaver.com.co/products/ecology/) to build high-impact internal superapps and Artifical Intelligence.
 
 ### 🛠 Tech Stack
 
