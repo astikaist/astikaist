@@ -16,7 +16,7 @@ Currently, I am working as a *Data Migration Specialist*, focusing on web scrapi
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| *Languages* | Python, JavaScript/TypeScript, Golang, PHP, SQL |
+| *Languages* | Python, JavaScript, Golang, PHP |
 | *Frontend* | React.js, React Native, HTML, CSS |
 | *Backend & Frameworks* | Laravel, Node.js (Ecosystem) |
 | *Data & Cloud* | Google Cloud Platform (GCP), Document AI, BigQuery, Apache Airflow, PySpark, Pentaho |
